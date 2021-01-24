@@ -45,7 +45,7 @@ The topic of this project is implementing a small messaging app which uses Bluet
 ![alt text](Resim1.png)
 
 ## Sample Output
-![alt text](outputSample.png)
+![alt text](sampleOutput.png)
 
 ## Some problems and their solutions
 #### I cannot receive NTP timestampt from server? 
