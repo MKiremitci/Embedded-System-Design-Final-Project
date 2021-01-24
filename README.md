@@ -18,7 +18,7 @@ The topic of this project is implementing a small messaging app which uses Bluet
 1. Hercules 3.2.8
 1. Bluetooth HC06 or HC05 (HC05 canbe used as a slave and master, while HC06 can be used as slave only.)
 1. Ethernet cable 
-1. Two F-F Jumpers and Two M-F Jumpers
+1. Jumper Cables
 1. EK-TM4C1294XL Launcpad
 
 
@@ -30,6 +30,22 @@ The topic of this project is implementing a small messaging app which uses Bluet
 1. Directory...
 1. Find the unzipped folder which is named as EEM449-Final Project- Mert Kiremitci and select it.
 1. Finish
+
+## How do I connect the Bluetooth HC06/HC05 to the Launcpad?
+-----------------------------
+| Bluetooth   |  Launcpad   |
+|-------------|-------------|
+|   Vcc       |  5V         |
+|   GND       |  GND        |
+|   TXD       |  U0Rx (PA0) |
+|   RXD       |  U0Tx (PA1) |
+-----------------------------
+
+## Process Flow and Synchronization
+![alt text](Resim1.png)
+
+## Sample Output
+![alt text](outputSample.png)
 
 ## Some problems and their solutions
 #### I cannot receive NTP timestampt from server? 
