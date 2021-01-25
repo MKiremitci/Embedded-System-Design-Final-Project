@@ -47,6 +47,9 @@ The topic of this project is implementing a small messaging app which uses Bluet
 ## Sample Output
 ![alt text](sampleOutput.png)
 
+## Video
+![alt text](Adsız.png)(https://youtu.be/oQ5tczLGR4A)
+
 ## Some problems and their solutions
 #### I cannot receive NTP timestampt from server? 
 * You can try another IP adresses which can be found in https://tf.nist.gov/tf-cgi/servers.cgi
