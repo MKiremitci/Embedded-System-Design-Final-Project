@@ -48,7 +48,7 @@ The topic of this project is implementing a small messaging app which uses Bluet
 ![alt text](sampleOutput.png)
 
 ## Video
-![alt text](Adsız.png)(https://youtu.be/oQ5tczLGR4A)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/oQ5tczLGR4A/0.jpg)](https://www.youtube.com/watch?v=oQ5tczLGR4A)
 
 ## Some problems and their solutions
 #### I cannot receive NTP timestampt from server? 
